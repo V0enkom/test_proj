@@ -6,3 +6,5 @@ _unit addEventHandler ["Reloaded", {
     _unit addMagazine _magazineType;
     systemChat format ["Добавлен один магазин для %1", _currentWeapon];
 }];
+
+
