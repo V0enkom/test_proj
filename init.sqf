@@ -1,4 +1,4 @@
-_unit = player1;
+_unit = player2;
 _unit addEventHandler ["Reloaded", {
     params ["_unit", "_weapon", "_muzzle", "_newMagazine", "_oldMagazine"];
     _currentWeapon = currentWeapon _unit;
