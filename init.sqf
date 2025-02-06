@@ -7,4 +7,6 @@ _unit addEventHandler ["Reloaded", {
     systemChat format ["Добавлен один магазин для %1", _currentWeapon];
 }];
 
+_unit2 = object1;
+
 
